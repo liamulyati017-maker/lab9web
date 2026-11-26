@@ -295,9 +295,6 @@ Jalankan dan periksa skenario berikut pada komputer masing-masing:
 
 **Catatan:** Checklist di atas merupakan skenario pengujian. Beri tanda centang setelah setiap pengujian benar-benar dilakukan. Simpan tangkapan layar hasil aktual pada folder `screenshots/`.
 
-## Dokumentasi Tambahan
-
-Lihat file [`JAWABAN.md`](JAWABAN.md) untuk analisis hasil praktik dan jawaban pertanyaan pemahaman.
 
 ## Identitas Repository
 
@@ -307,3 +304,6 @@ Praktikum    : Praktikum 9 — PHP Modular
 Bahasa       : PHP
 Database     : MySQL
 ```
+## Kesimpulan
+Praktikum ini menghasilkan rangkaian latihan PHP modular, mulai dari pemanggilan file, template bersama, library function, routing whitelist, hingga refactoring aplikasi CRUD. Pemisahan konfigurasi, tampilan, helper, dan modul membuat struktur aplikasi lebih teratur dan memudahkan pemeliharaan. Penerapan whitelist, autentikasi, validasi server, prepared statement, token CSRF, dan pemeriksaan file upload juga memperlihatkan bahwa modularisasi dapat berjalan bersama praktik pengamanan aplikasi.
+
